@@ -6,7 +6,7 @@
     "Clínica geral"
   ],
   "tipo": "Generalista",
-
+ "horario_trabalho": "manhã das 08:00 às 12:00",
   "contato": {
    "telefone": "11 94566-1011",
     "email": "jaosaude@hospital.com"
